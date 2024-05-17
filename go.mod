@@ -1,3 +1,3 @@
-module github.com/halogenica/beautifulhugo
+module github.com/techmagus/beautifulhugo
 
 go 1.20
